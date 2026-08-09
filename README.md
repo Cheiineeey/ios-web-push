@@ -99,7 +99,7 @@ HTTP 下 `PushManager` 直接不存在。用 Let's Encrypt 免费证书。
 
 ## License
 
-MIT
+[MIT](LICENSE)
 
 ---
 
